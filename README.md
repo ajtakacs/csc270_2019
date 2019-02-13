@@ -1,2 +1,2 @@
-# Gardonyi Geza: A lathatatlan ember
+# Gárdonyi Géza: A láthatatlan ember
 ## Textual analysis
