@@ -13,7 +13,7 @@ val myText:Vector[String] = Source.fromFile(filepath).getLines.toVector.filter(_
 
 val wordVec:Vector[String] = {
   val bigString:String = myText.mkString(" ")
-  val noPunc:String = bigString.replaceAll("""[,.?;:!)(–—-]""","").replaceAll(" +", " ")
+  val noPunc:String = bigString.replaceAll("""[,.?;:!)(–—->_]""","").replaceAll(" +", " ")
   val tokenizedVector:Vector[String] = noPunc.split(" ").toVector.filter(_.size > 0)
   tokenizedVector
 }
@@ -44,4 +44,4 @@ val badWords:Vector[String] = uniqueWords.filter( w => {
       (dictEntries.contains(w) == false)
 })
 
-println(s"\n\nmyText has ${badWords.size} incorrect words.\n")
+println(s"\n\nmyText has ${badWords.size} incorrect words according to the English vocab list.\n")
