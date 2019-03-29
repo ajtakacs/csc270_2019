@@ -24,7 +24,7 @@ Egy leány tanított erre engem.
 
 
 
-I.
+Chapter I.
 
 Tizenkét esztendős voltam, mikor az apám eladott rabszolgának. Kénytelen volt vele: Trákiában élt, a kelet-római birodalomban, és adóért zaklatták. Abban az időben kezdték a hunok adóját kihasogatni az emberek bőréből. A világ a hunok nevével volt tele. A szegény trák embernek elhajtották a marháját, hogy a hunoknak legyen mit megenniök. Anyám is meghalt. Hat gyermek maradt, meg egy tehén. Apámnak nem volt más tennivalója, csak az, hogy vagy engem adjon el, vagy a tehenet.
 
@@ -359,7 +359,7 @@ Tehát az első gazdámat.
 
 
 
-II.
+Chapter II.
 
 Már erősen kitavaszodott, mikor az Iszter vizében megitathattuk a lovainkat.
 
@@ -697,7 +697,7 @@ Elzsibbadtam, édesen elzsibbadtam.
 
 
 
-III.
+Chapter III.
 
 A férfisátorból kilépett Csáth s körülpillantott a sátor előtt álló szolgáin. Én mély meghajlással köszöntem neki.
 
@@ -878,7 +878,7 @@ A hun nevetett:
 
 
 
-IV.
+Chapter IV.
 
 Egy este valami tó mellé érkeztünk. Nem volt nagy tó, inkább egy forrás medenczéjének lehetne mondani. Hogy ott szép nyírfák is voltak, Maksziminosz azt a helyet jelölte ki éjjeli szállásunknak.
 
@@ -1014,7 +1014,7 @@ Nem látszott már a gombja se.
 
 
 
-V.
+Chapter V.
 
 Déltájban az urak hazatértek. Utánok öt hun is jött. Az egyik borjut hozott, a másik liszteszsákot, a harmadik két nyulat.
 
@@ -1106,7 +1106,7 @@ Azzal nagy büszkén elléptem.
 
 
 
-VI.
+Chapter VI.
 
 Mikorra visszaérkeztem, az urak már az ebédnél feküdtek, s a borjupecsenye illata betöltötte a levegőt. Gazdám a tekintetével kérdezett.
 
@@ -1164,7 +1164,7 @@ Mert ha behunyom a szememet, mindig látom őt. Látom, amint fehér szoknyában
 
 
 
-VII.
+Chapter VII.
 
 Hajnalban indultunk.
 
@@ -1322,7 +1322,7 @@ Azután megcsapta a lovát és elporoszkált.
 
 
 
-VIII.
+Chapter VIII.
 
 A következő nap delén a Csáthék karavánja utólérte a miénket. Bizonyosan korábban indultak, mint mink, s mink útközben egy lovunk kidőlése miatt vesztegeltünk is néhány órán át.
 
@@ -1522,7 +1522,7 @@ De nem láttam.
 
 
 
-IX.
+Chapter IX.
 
 A város izgalomban volt, mint a rajzó méhkas. Az utakat locsolták és falevéllel, fűvel hintették be. A sátorok előtt férfiak és nők öltözködtek. A fehér lovak sörényét, farkát befestették börzsönynyel vagy sárga festékkel. A sátorok külső részét virágos szőnyegekkel aggatták tele.
 
@@ -1643,7 +1643,7 @@ Egy minutumig álltam az ajtó mellett: vártam, hogy az uram meglásson. Ekköz
 
 
 
-X.
+Chapter X.
 
 Az uram föl szokta jegyezni mindennap, hogy miket látott, miket hallott. Könyv lesz abból. Be fogják tenni a császári könyvtárba.
 
@@ -1699,7 +1699,7 @@ Nem tudom, mit beszélgettek, nem is voltam rá kiváncsi. Nekem ellassudott a l
 
 
 
-XI.
+Chapter XI.
 
 Másnap korán keltünk, hogy a fővezérnek átadhassuk az ajándékot. Mig az uram öltözködött, nekem kellett kikeresnem a ládák közül az edényeket.
 
@@ -1852,7 +1852,7 @@ Nem tudom: a fővezér mikor és hogyan ment el tőlünk. Nekem egésznap égett
 
 
 
-XII.
+Chapter XII.
 
 Az urak nem szálltak Csáthékhoz. A magunk sátorában laktunk, de a Csáthék palotája közelében.
 
@@ -2079,7 +2079,7 @@ Az már más ügy volt. Otthagytuk a törvénykezést. Az udvar kapujában látt
 
 
 
-XIII.
+Chapter XIII.
 
 Másnap az uram ebéden volt Atillánál. Én ismét a királynéhoz mentem.
 
@@ -2224,7 +2224,7 @@ Maksziminosz nem értette a gazdámat. Ő a testi embert látta Atillában is. P
 
 
 
-XIV.
+Chapter XIV.
 
 Másnap esett az eső. A hunok megfordították a sátorbőröket: szőrrel kifelé. A ruhájok is úgy fordult: a vásznas, gyolcsos nép szőrösbundás, mikor az eső esik. Mintha a medvék országában volnék.
 
@@ -2507,7 +2507,7 @@ Megfogtam mind a két kezemmel, mint ahogy a madárkát szokás simogatni, s fé
 
 
 
-XV.
+Chapter XV.
 
 A királyné másnap nem fogadott. Pedig én már föl voltam öltözve, s vártam Emőkét. A nap kisütött, és a sarat tésztává szárította. Csáthékhoz egy tizenhét éves forma, barna fiatal ember ment lóháton. A nyakában remekmívű aranyláncz. A süvegében sastoll. Utána két szolga lovagolt. Megismertem, hogy Aladár királyfi.
 
@@ -2694,7 +2694,7 @@ A fáklyákat eloltották. Csak egy fáklya maradt égve. Annak a világánál t
 
 
 
-XVI.
+Chapter XVI.
 
 Kora hajnalban indultunk. A nap még nem kelt föl, csak a pirossága terjedt. A sátorvárost a csordások és kondások kürtje riogta be. Kihuztuk a földből az utolsó sátorfákat is, és a szekerekre raktuk. Az urak lóra ültek. Én is.
 
@@ -2712,7 +2712,7 @@ Csak legalább távolból is látnám, hogy a süvegemmel búcsút inthetnék. D
 
 
 
-XVII.
+Chapter XVII.
 
 Jó volna, ha az ember fejébe is lehetne zsilipet tenni. Hogy le lehetne ereszteni egypár hétre; ne forognának némely kerekek.
 
@@ -2797,7 +2797,7 @@ Vigilászt meglepte az odaérkezésem. Jódarabig faggatott, hogy mi dolga van a
 
 
 
-XVIII.
+Chapter XVIII.
 
 Egy augusztusi estén elértük a Dunát, Atilla országának a határát.
 
@@ -2924,7 +2924,7 @@ A hun megpöngette egy kövön az aranyat s eltünt. Egyideig még hallottuk az 
 
 
 
-XIX.
+Chapter XIX.
 
 Én a szabadban háltam a katonák között.
 
@@ -2945,7 +2945,7 @@ A rózsa kis papirosba takartan a mellemen rejtőzködött. Már hervadt volt, d
 
 
 
-XX.
+Chapter XX.
 
 Ugyanazon az úton haladtunk Atilla városába, a melyiken már egyszer jártam, csakhogy akkor Maksziminosznak szüntelen kellett élelmet vennie, Eszlász meg egy rézpénzt sem engedett költenünk. Később tudtam meg, hogy ez szándékosan történt.
 
@@ -2969,7 +2969,7 @@ Ez volt életemnek első szerencsés gondolata. Az a pénz segített vissza idő
 
 
 
-XXI.
+Chapter XXI.
 
 Dél volt, mikor elértük Atilla városát. A nap égetőn sütött. A kutyák a nyelvüket lógatva ültek az árnyékon is.
 
@@ -3067,7 +3067,7 @@ A sátorok árnyékából előszaladtak a nők és a gyermekek és bámulták a 
 
 
 
-XXII.
+Chapter XXII.
 
 Tizenegy óra tájban (a hun óra szerint délután három órakor) elérkeztünk Atilla palotájához.
 
@@ -3363,7 +3363,7 @@ Fölkelt. Az urak követni készültek.
 
 
 
-XXIII.
+Chapter XXIII.
 
 Atilla kiment. Kezünket a testőrök feloldozták. Vigilász összeborult a fiával. Sírtak. Én nem tudtam, merre mozduljak. Csáth utána ment Atillának a palota belseje felé. Oda nem követhettem.
 
@@ -3568,7 +3568,7 @@ Az öreg fölkelt. Eltette a bicskáját, sótartóját. Odaballagott.
 
 
 
-XXIV.
+Chapter XXIV.
 
 Reggel az a veszett lárma ébresztett föl, a mit csak a barbárok városában hallhat az ember. Tülkölés, ostordurrogás, disznóröfögés, tehénbőgés, emberi hujjogás.
 
@@ -3709,7 +3709,7 @@ Azzal otthagyott.
 
 
 
-XXV.
+Chapter XXV.
 
 Negyedóra mulva kilépett Csáth. Már akkor ott áll a lova fölnyergelten.
 
@@ -3770,7 +3770,7 @@ Kiérkeztünk a méneshez. Ott egy alacsony deres paripát választatott ki. Az 
 
 
 
-XXVI.
+Chapter XXVI.
 
 Visszatéret Csáth megállt a kapuban és ideadta a süvegét.
 
@@ -3835,7 +3835,7 @@ Azzal még egyszer az arczomra pillantott. Hideg volt a pillantása, szinte feny
 
 
 
-XXVII.
+Chapter XXVII.
 
 A következő napokon még erősebb sajtó alá került az érzékenységem.
 
@@ -3943,7 +3943,7 @@ Az a tyúk aztán annyira szeretett engem, hogy reggelenkint mindig ott találta
 
 
 
-XXVIII.
+Chapter XXVIII.
 
 Elmult a nyár. A sátorok városa megváltozott. Minden sátor mellett szénaboglya, szalmakazal. A kazlak közé ágakból, gerendákból istállót raktak. Oldalt veszőfonás és magas földhányás. A tető szalma.
 
@@ -4106,7 +4106,7 @@ Azokban a napokban sokat szenvedtem lélekben.
 
 
 
-XXIX.
+Chapter XXIX.
 
 Akkor már ha ebédre ment a gazdám Atillához, nem ácsorogtam a palota előtt. Tudtam, hogy csak napnyugta után kell érte menni; ha pedig a fővezérhez megy, akkor csak éjfél felé. Hát olyankor betelepedtem a konyhába.
 
@@ -4155,7 +4155,7 @@ Sohajtott.
 
 
 
-XXX.
+Chapter XXX.
 
 Egy deczemberi délelőttön görög köntösű lovasok állítanak be az udvarunkba. Az egyikben megismertem a Vigilász fiát, a másikban Nómusz patriciust, a ki a császárhoz szokott járni.
 
@@ -4298,7 +4298,7 @@ Csáthban is egyszerre megbődült az állat. Nem várt magyarázatot. Ő csak a
 
 
 
-XXXI.
+Chapter XXXI.
 
 Mikor eszméletre tértem, a szakácsné kamarájában láttam magamat.
 
@@ -4492,7 +4492,7 @@ Mikorra a kendőt föltette, Emőke már nem volt a szobában.
 
 
 
-XXXII.
+Chapter XXXII.
 
 Legtöbbet Dsidsia volt nálam. Ült az ágyam mellett, és leste, mit kivánok. Beszélt, csicsergett, akár hallgattam, akár nem. Mikor aztán mennie kellett, megsimogatta a kezemet, és úgy ment el.
 
@@ -4614,7 +4614,7 @@ A csataviselt emberek magyarázták aztán, hogy a rohamot és visszafutást az 
 
 
 
-XXXIII.
+Chapter XXXIII.
 
 Egy esős napon, a mikor nem gyakoroltunk, meglátogattam Bial táltost.
 
@@ -4793,7 +4793,7 @@ Félbe kellett hagynunk a beszélgetést, mert Bial táltos föltette a bűvös 
 
 
 
-XXXIV.
+Chapter XXXIV.
 
 Egy nyári napon hire szállt, hogy Theodoziusz meghalt, s hogy a kormányzást a nénje, Pulcheria vette át.
 
@@ -4831,7 +4831,7 @@ Hozták is. A város végén már kivették a mézből. És a sápadt kövér em
 
 
 
-XXXV.
+Chapter XXXV.
 
 Csáth egész éven át mindennap Atillánál ebédelt. Én ezt eleinte dőzsölésnek véltem. Gondoltam, az ilyen barbár nép az evést ivást tartja az élet fő gyönyörüségének.
 
@@ -5000,7 +5000,7 @@ Mikor Csáth engem dicsért, éreztem, hogy Emőke mosolyog, s tekintete az arcz
 
 
 
-XXXVI.
+Chapter XXXVI.
 
 Harmadnapra öttagu követség indult Valentinianusz római császárhoz Ravennába. A követség vezére Edekon volt. Vele ment a kopasz Madarász, Kamocsa, Mácsa, Betegh és Upor.
 
@@ -5140,7 +5140,7 @@ A nép kitolongott a sátorokból, s álmélkodva nézte az égi jelet.
 
 
 
-XXXVII.
+Chapter XXXVII.
 
 Másnap reggel Atilla kürtöse, Kászon, kiállt a palota elé, a dombra. Fölemelte a nagy elefántcsont kürtöt, s messzebúgó hangon fujta az indulót.
 
@@ -5225,7 +5225,7 @@ Ezernyi ezer kard csattant elő, s a fegyveres százezrek a kardot az égnek vil
 
 
 
-XXXVIII.
+Chapter XXXVIII.
 
 A hadsereg fele átköltözött a Dunán. Elszélesedtek, mint az árvíz. És így kétfelé váltan haladtunk északnak, azután meg nyugatnak. A Duna déli partján Atilla vitte a had felét, az északi parton Csáth fővezér.
 
@@ -5506,7 +5506,7 @@ Arra gondoltam, hogy: Én ezt az embert megölöm!
 
 
 
-XXXIX.
+Chapter XXXIX.
 
 Atillát én az úton mindig magam előtt láttam száz-kétszáz lépésnyire.
 
@@ -5562,7 +5562,7 @@ Azt akartam hogy ha csatára kerül a sor, a közelemben találjam.
 
 
 
-XL.
+Chapter XL.
 
 Az első nagy állomás, a hol egy hétig pihentünk, Auguszta városa volt.
 
@@ -5628,7 +5628,7 @@ Egy szikla mellett sebekkel borított félmeztelen szürke ember fekszik, se kar
 
 
 
-XLI.
+Chapter XLI.
 
 Tovább utazunk. Atillánál folyton jönnek-mennek a kémek, posták és követek.
 
@@ -5758,7 +5758,7 @@ A csata csupáncsak a vár körül viharzik, míg a hunok a zsákmányt eltakar�
 
 
 
-XLII.
+Chapter XLII.
 
 A vonulás a katalauni mező felé napokig tartott. Utközben persze a had minden kerítetlen várost kifosztott és minden vetést legázolt.
 
@@ -5900,7 +5900,7 @@ A szeme már akkor üvegesedett. Homlokát verejték lepte el. Ujjai görcsösen
 
 
 
-XLIII.
+Chapter XLIII.
 
 Atilla sátora nyugatnak állott, hát a többi is arra fordította a sátorát. De lám Aéciusz nem oda vezette a hadát, a hova vártuk, hanem keletnek. A Vezle-patak, a mely eddig mögöttünk folyt, most a két had közé került.
 
@@ -6000,7 +6000,7 @@ Leült a szekér kerekére és mozdulatlan elmélyedéssel nézett maga elé.
 
 
 
-XLIV.
+Chapter XLIV.
 
 Az urak naphosszat az Atilla sátora tetején állottak s nézték a római sereg letáborozását.
 
@@ -6096,7 +6096,7 @@ Ebből érteni lehetett, hogy holnap csata lesz.
 
 
 
-XLV.
+Chapter XLV.
 
 Csak Atilla sátorában égtek a fáklyák.
 
@@ -6150,7 +6150,7 @@ A hunok lelkes éljenre csattantak. Atilla szeme is csillogott. Ivott a püspök
 
 
 
-XLVI.
+Chapter XLVI.
 
 A vendégek egy része eloszlott. Hargita, Betegh, Urkon, Kamocsa, Madarász, Bálán, Vacsar és Upor is. A többi még ott maradt. A szolgák elhordták és összehajtogatták a tábori asztalokat. A székeket a sátorterem falához rakták.
 
@@ -6384,7 +6384,7 @@ Kezének intésével üdvözölte az urakat és fölment az emeletre.
 
 
 
-XLVII.
+Chapter XLVII.
 
 Meggyujtottam egy fáklyát s elindultam az uram előtt. A sátrak körül mindenfelé alvó katonák hevertek. A szabad mezőről hangzott a bogarak cirpelése.
 
@@ -6452,7 +6452,7 @@ Azzal ő is ledőlt a sátor oldalába.
 
 
 
-XLVIII.
+Chapter XLVIII.
 
 Sokáig nem tudtam elaludni. Arra gondoltam, hogy lesz-e még ezen a földön éjszakám? vagy hogy ma látom utóljára a gönczölszekerét? Milyen más volna az életem, ha Emőkével nem találkozom: most aludnám otthon Konstantinápolyban a tengerillatos csendes nyári éjszakában, s nem susogna a fülembe az éji szellő nehéz és gyászos gondolatokat.
 
@@ -6478,7 +6478,7 @@ Hát kigyulladtak a tábori konyha-tüzek, s a sátorok utczáin marhákat, borj
 
 
 
-XLIX.
+Chapter XLIX.
 
 A dél még nem mult el két órával, mikor Kászon kürtös megjelent a királyi sátor ormán, s belefujt a nagy elefánt-tülökbe:
 
@@ -6751,7 +6751,7 @@ Ma már nem birok irtózás nélkül gondolni arra a rengeteg embergyilkolásra,
 
 
 
-L.
+Chapter L.
 
 Ha lesz a maradékaim között, a kit vagy a kénytelenség, vagy az enyimhez hasonló elmebeli bomlás csatába visz, tudja meg, hogy a halál nem fájdalmas. A test csaknem minden érzékenységét elveszti: sem ütés, sem vágás, sem szúrás nem okoz kínos fájdalmat, csak kábulást vagy eszméletlenséget.
 
@@ -6878,7 +6878,7 @@ Mellettünk mentek el. Több síró embert is láttam. Többnyire vizigótok vol
 
 
 
-LI.
+Chapter LI.
 
 Ki győzött? Ki vesztett? Ez a kérdés hányódott bennem, a mennyire az öldöklő szomjúságban gondolkozhattam.
 
@@ -7101,7 +7101,7 @@ A római táborból folyton az az egyhangú csörömpölés hallatszik, a mely a
 
 
 
-LII.
+Chapter LII.
 
 Oh áldott napfény áldott hajnala! Csakhogy újra mossa hűsítő harmatod eltikkadt arczomat!
 
@@ -7263,7 +7263,7 @@ Akkor már magam is tudtam. A torkom, hónaljam meg volt dagadva. A csatából m
 
 
 
-LIII.
+Chapter LIII.
 
 Másnap délután összeszedték a sebesülteket, s elhordták a táborba.
 
@@ -7372,7 +7372,7 @@ Aztán nem tudom, mi történt velem.
 
 
 
-LIV.
+Chapter LIV.
 
 Bolond ember az, a ki kétségbeesik. Ime én reám hány alakban tört a halál. Hol az üstökömet ragadta meg, hol a lábamat, hol a mellemet, – s mégis élek.
 
@@ -7488,7 +7488,7 @@ Ez a história annyira bizarrnak tetszett nekem, hogy keserüségemben is elmoso
 
 
 
-LV.
+Chapter LV.
 
 Tavaszszal, amint elment a hó, a pestis újra megjelent a városban. Eleinte öt-tiz halott naponkint, később húsz-harmincz.
 
@@ -7540,7 +7540,7 @@ Kiválasztottam a legjobb paripát és czo föl sárga! köd előttem, köd utá
 
 
 
-LVI.
+Chapter LVI.
 
 Sárguló ősz volt, mikor sok hányódás után elérkeztem a Balatonhoz, s estére a Duna partjára, a hol a kürtömmel jelet fujtam.
 
@@ -7734,7 +7734,7 @@ Uzora elvörösödött.
 
 
 
-LVII.
+Chapter LVII.
 
 Másnap délelőtt csakugyan hivatott a királyné.
 
@@ -7949,7 +7949,7 @@ Megcsókolta Ildikót és egykedvű arczczal fordult a leányokhoz.
 
 
 
-LVIII.
+Chapter LVIII.
 
 Rába asszony nekem megint átadta a szobáját. Abban a vastag teremtésben gyöngéd szív lakozott. Nem tudom, mivel nyertem meg őt. Talán avval, hogy egyszer a cselédeknek kozmás kását adott, s azok reá támadtak, majdnem megverték, én azonban megvédelmeztem:
 
@@ -8082,7 +8082,7 @@ Perczekig tartó csend következett. Elfelejtettem, hogy Dsidsia ott van. Szavai
 
 
 
-LIX.
+Chapter LIX.
 
 Estefelé Emőke hazatért. Egy zsemlyeszínű lovon járt akkor. Alacsony kis kedves ló volt az. Ott legelészett mindig a ház körül, s akárki szólt neki, hozzáment. Olyan volt, mint a kutya.
 
@@ -8165,7 +8165,7 @@ Dsidsia az árnyékban állott, a kárpit mellett. S ahogy engem nézett, a szem
 
 
 
-LX.
+Chapter LX.
 
 Három hét multán megérkezett Atilla.
 
@@ -8222,7 +8222,7 @@ Emőke pedig a gyertya lángjába nézett, egykedvű, merengő nézéssel.
 
 
 
-LXI.
+Chapter LXI.
 
 A zsákmányos szekerek ott álltak százával, hosszú sorban a főutczán, a téren s a király udvarán. Az írószoba előtt nagy halmokba volt hányva az a zsákmány, a mit lovon, öszvéren és tevén göngyölegekben hoztak el. Többnyire szőnyegek voltak s különféle kelmék.
 
@@ -8434,7 +8434,7 @@ Egyszer aztán megszólított:
 
 
 
-LXII.
+Chapter LXII.
 
 Havonkint egyszer, holdtöltekor, olyan vacsora volt Atillánál, a melyre a férfiak elvitték a feleségüket, leányaikat is. A kinek több felesége volt egynél, azt vitte el, a ki több fiat szült neki.
 
@@ -8501,7 +8501,7 @@ Atilla előttem járta a tánczot. A hogy föl-alá léptek andalgón, láttam, 
 
 
 
-LXIII.
+Chapter LXIII.
 
 Másnap híre futott a palotában, hogy Attilla követeket indított az éjjel a Rajna partjára, Ildikó apjához: megkérte a kezét Ildikónak, s a leány azt felelte, hogy ha az apja beleegyezik, ő nem mond nemet.
 
@@ -8601,7 +8601,7 @@ Megütközve nézett rám. S még a lépcsőn is csóválta a fejét. Bizonyosan
 
 
 
-LXIV.
+Chapter LXIV.
 
 A tavasz abban az évben korán érkezett.
 
@@ -8856,7 +8856,7 @@ Kászon megmozdul, hogy fölemeli, de akkor hozzák a gyászposztóval bekötöt
 
 
 
-LXX.
+Chapter LXX.
 
 Délután már ott feküdt Atilla a főtéren, magas ravatalon, ezüst csillagokkal ékített fekete selyemsátor alatt. A sátor oldalait fölkapcsolták, hogy a nép láthassa.
 
@@ -9229,7 +9229,7 @@ Már eléje megyek minden alaknak, a melyik gyalog jön, s körülbelül egygyez
 
 
 
-LXXI.
+Chapter LXXI.
 
 Talán éjfél is volt, mikorra a szállásomra jutottam. Az emberek még nem feküdtek le. Egy-egy fáklya köré gyülve, nagy lovas csoportokban beszélgettek mindenfelé. Az arczok komorak.
 
