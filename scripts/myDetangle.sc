@@ -108,7 +108,7 @@ val allChapterLines:Vector[BookPara] = {
 
 val savableLines:Vector[String] = {
   allChapterLines.map( cl => {
-    cl.chapterName + "." + cl.index + "#" + cl.text
+    "urn:cts:fuTexts:gardonyi.aLathatatlanEmber.fu2019:" + cl.chapterName + "." + cl.index + "#" + cl.text
     // or
     //s"${cl.chapterName}.${cl.index}#${cl.text}
   })
