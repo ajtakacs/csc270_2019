@@ -2,7 +2,7 @@ import scala.io.Source
 import edu.holycross.shot.cite._
 import java.io._
 
-def saveString(s:String, filePath:String = "texts/", fileName:String = "temp.txt"):Unit = {
+def saveString(s:String, filePath:String = "", fileName:String = "temp.txt"):Unit = {
 	val pw = new PrintWriter(new File(filePath + fileName))
 	for (line <- s.lines){
 		pw.append(line)
@@ -15,7 +15,7 @@ case class IndexedLine(text:String, index:Int)
 case class ChapterHeading(title:String, index:Int)
 case class BookPara(chapterName:String, text:String, index:Int)
 
-val filepath:String = "/vagrant/csc270_2019/projectText2.txt"
+val filepath:String = "projectText2.txt"
 val myLines:Vector[String] = Source.fromFile(filepath).getLines.toVector.filter( _.size > 0 )
 
 // Grab line numbers
@@ -29,7 +29,7 @@ val indexedFileLines:Vector[IndexedLine] = myLines.zipWithIndex.map( ln => {
 val chapters:Vector[ChapterHeading] = {
   indexedFileLines.filter(_.text.startsWith("Chapter")).map(c => {
     val index:Int = c.index
-    val newTitle:String = c.text.replaceAll("Chapter ","chpt_")
+    val newTitle:String = c.text.replaceAll("Chapter ","").replaceAll("\\.","")
     new ChapterHeading(newTitle, index)
   })
 }
@@ -61,8 +61,9 @@ val allButTheLastChapter:Vector[BookPara] = chapterRanges.map(cr => {
     })
   }
   // attach the chapter title to the paragraph
-  val bookParas:Vector[BookPara] = chapterParas.map( cp => {
-    new BookPara( thisChapt.title, cp.text, cp.index)
+ val bookParas:Vector[BookPara] = chapterParas.zipWithIndex.map (cp => {
+    val thisIndex:Int = cp._2 + 1
+    new BookPara( thisChapt.title, cp._1.text, thisIndex)
   })
   // return that value
   bookParas
@@ -88,10 +89,19 @@ val theLastChapter:Vector[BookPara] = {
   bookParas
 }
 
+val betterTLC:Vector[BookPara] = theLastChapter.zipWithIndex.map( a => {
+  // each "a" is a (BookPara, Int)
+  val thisIndex:Int = a._2 + 1
+  val oldPara:BookPara = a._1
+  val oldChap:String = oldPara.chapterName
+  val oldText:String = oldPara.text
+  BookPara(oldChap, oldText, thisIndex)
+})
+
 /* combine them */
 
 val allChapterLines:Vector[BookPara] = {
-  allButTheLastChapter ++ theLastChapter
+  allButTheLastChapter ++ betterTLC
 }
 
 /* map that to what you want for CEX */
