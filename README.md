@@ -18,6 +18,7 @@ It also offers citation for each paragraph to allow users to use the text as ref
 **scripts**
   - htmlWriter.sc
   - myDetangle.sc
+  - ajt_analysis.sc - simple analysis assignment
 
 
 **build.sbt**
