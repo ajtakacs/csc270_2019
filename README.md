@@ -12,7 +12,7 @@ It also offers citation for each paragraph to allow users to use the text as ref
 **htmlProject**
   - books - unformatted text with full citation (in chunks based on chapters)
   - css - stylesheet for html file
-  - html - formatted version of the books
+  - html - formatted version of books
   - tohtml.py - program that chunks up the text and attaches simplified citation
 
 **scripts**
