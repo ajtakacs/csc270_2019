@@ -24,6 +24,6 @@ It also offers citation for each paragraph to allow users to use the text as ref
 
 **cite.html**
 
-**gardonyi.cex**
+**gardonyi.cex** - text with urn citations
 
-**projectText2.txt**
+**projectText2.txt** - text stripped from excess characters
